@@ -11,7 +11,7 @@
 
 [1]: https://www.jonathanjimenezsalazar.dev
 [2]: https://www.linkedin.com/in/jonathan-jimenez-salazar/
-[3]: jonathanjzsalazar@gmail.com
+[3]: https://www.jonathanjimenezsalazar.dev/#/contact
 <!---
 JohnnyJSz/JohnnyJSz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
