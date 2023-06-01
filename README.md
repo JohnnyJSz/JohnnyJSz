@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jonathan J Salazar.
 - 👀 I’m interested in coding 💻, painting 🎨 and videogames 👾.
 - 🌱 I’m currently learning more about ReactJS, TypeScript, JavaScript
-- 📫 Drop me a line, connect on LinkedIn or visit my website to know more about me.
+- 📫 Drop me a line or connect on LinkedIn.
 
 ---
 [![icons8-linkedin-circled-48](https://user-images.githubusercontent.com/54499975/148661704-c91bda14-4c68-4330-b470-038e16d54ac0.png)][1]
